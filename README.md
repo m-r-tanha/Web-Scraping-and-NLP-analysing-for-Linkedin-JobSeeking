@@ -16,6 +16,7 @@
   
 <h2> Considerations:
 <h4>  To run the Python code the below procedures should be considered: 
+  
 - To run this code you should have your TEXT (.txt) English CV as a TEXT file. To more effective results the translated CV in different languages like Germany and French are needed to correlate the CV with all available positions in different languages. This CV should include the most important word keys.
 - At first you should search your job with its cretria in Linkedin site as part 2 in below figure.
 - The address will be asked in code, so it should be copied
