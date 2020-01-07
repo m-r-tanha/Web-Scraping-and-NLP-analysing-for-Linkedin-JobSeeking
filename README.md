@@ -22,3 +22,6 @@
 - The address will be asked in code, so it should be copied
   
 ![Image of Linkedin](https://github.com/m-r-tanha/Web-Scraping-for-Linkedin-Job-seeking/blob/master/2020-01-07_21-47-44.png)
+
+
+![Image of Result](https://github.com/m-r-tanha/Web-Scraping-for-Linkedin-Job-seeking/blob/master/2020-01-07_23-02-49.png)
