@@ -5,8 +5,8 @@
 
 <h2> Code Description
   <h4> Many techniques have been used in this code such as: 
-    <h5> Web Scrape
-      <h5> Data Scientist:
+      *  Web Scrape
+      *  Data Scientist:
         <h7> NLP (NLTK)
           <h7> KMeans
 
