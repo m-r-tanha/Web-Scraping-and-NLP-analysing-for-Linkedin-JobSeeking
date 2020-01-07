@@ -4,10 +4,12 @@
 <h3>Finding a suitable job in a huge amount of data is a too exhausting activity. Sometimes the jobs' list in a site is not trustable, I mean many jobs have been repeated more than one times, and you should cope with the duplicate information.
 
 <h2> Code Description
-<h3> Many techniques have been used in this code such as:
-  
+<h4> Many techniques have been used in this code such as:
+
 - Web Scrape
+  - BeautifulSoup
 - Data Scientist
   - NLP (NLTK)
+    - TFIDF
   - KMeans
   
