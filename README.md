@@ -16,4 +16,6 @@
   
 <h2> Considerations
   
+ <h4> To run this code you should have your TEXT (.txt) English CV as a TEXT file. To more effective results the translated CV in different languages like Germany and French are needed to correlate the CV with all available positions in different languages. This CV should include the most important word keys.
+  
 ![Image of Linkedin](https://github.com/m-r-tanha/Web-Scraping-for-Linkedin-Job-seeking/blob/master/2020-01-07_21-47-44.png)
