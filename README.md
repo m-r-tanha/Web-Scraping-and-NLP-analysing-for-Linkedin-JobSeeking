@@ -7,6 +7,6 @@
   <h4> Many techniques have been used in this code such as: 
     <h3> Web Scrape
       <h3> Data Scientist:
-        <h4> NLP (NLTK)
-          <h4> KMeans
+        <h4> *NLP (NLTK)
+          <h4> *KMeans
 
