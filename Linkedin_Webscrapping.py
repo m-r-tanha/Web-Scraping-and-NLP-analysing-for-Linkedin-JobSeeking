@@ -9,9 +9,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from langdetect import detect
 
 # ----------------Your Profile in differente Language--------
-ge_profile_path=r"C:\Users\Hi\Desktop\my GE profile.txt"  # Your GERMANY profile or CV as text file (.txt)
-en_profile_path=r'C:\Users\Hi\Desktop\my text profile.txt' # Your ENGLISH profile or CV as text file (.txt)
-fr_profile_path=r'C:\Users\Hi\Desktop\my FR profile.txt' # Your FRENCH profile or CV as text file (.txt)
+ge_profile_path=r"my GE profile.txt"  # Your GERMANY profile or CV as text file (.txt)
+en_profile_path=r'my EN profile.txt' # Your ENGLISH profile or CV as text file (.txt)
+fr_profile_path=r'my FR profile.txt' # Your FRENCH profile or CV as text file (.txt)
 
 ge_profile=open(ge_profile_path,'r')
 en_profile=open(en_profile_path,'r')
