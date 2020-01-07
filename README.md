@@ -16,3 +16,4 @@
   
 <h2> Considerations
   
+![Image of Linkedin](https://github.com/m-r-tanha/Web-Scraping-for-Linkedin-Job-seeking/blob/master/2020-01-07_21-47-44.png)
