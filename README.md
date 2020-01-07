@@ -11,5 +11,8 @@
 - Data Scientist
   - NLP (NLTK)
     - TFIDF
+    - Word Tokenize
   - KMeans
+  
+<h2> Considerations
   
