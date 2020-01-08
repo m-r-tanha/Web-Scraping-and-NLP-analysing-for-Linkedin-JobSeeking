@@ -1,7 +1,7 @@
 
 # Web Scraping Code to Find more Matched Job in Linkedin
 ![Image of Yaktocat](https://github.com/m-r-tanha/Web-Scraping-for-Linkedin-Job-seeking/blob/master/2020-01-07_21-53-48.png)
-<h3>Finding a suitable job in a huge amount of data is a too exhausting activity. Sometimes the jobs' list in a site is not trustable, I mean many jobs have been repeated more than one time, and you should cope with the duplicate information. For example fo a Job title in a specific location the Linkedin result was 189, but after analyzing the data, the 47 unique jobs have been extracted.
+<h3>Finding a suitable job in a huge amount of data is a too exhausting activity. Sometimes the jobs' list in a site is not trustable, I mean many jobs have been repeated more than one time, and you should cope with the duplicate information. For example fo a Job title in a specific location the Linkedin result was 189, but after analyzing the data, the 47 unique jobs have been extracted. This code extracts the job information and calculates the correlation value between the job description and the given CV. Finally, they are clustered into 3 classes.
 
 <h2> Code Description:
 <h4> Many techniques have been used in this code such as:
